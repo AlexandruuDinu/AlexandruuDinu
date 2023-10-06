@@ -30,5 +30,3 @@
 <br><br>
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexandruudinu)
-
-![Snake animation](https://github.com/alexandruudinu/alexandruudinu/blob/output/github-contribution-grid-snake.svg)
